@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Flutuar" src=".github/Desktop.png" width="100%">
+  <img alt="projeto Flutuar" src="Desktop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
